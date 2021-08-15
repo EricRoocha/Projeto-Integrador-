@@ -1,6 +1,9 @@
 # Projeto-Integrador-
 Repositório para o projeto de um sistema para aluguel de carros. 
 
+Professor
+Ivandro da Silva Ribeiro
+
 Alunos / RA
 André Gustavo   - 21900345
 Davi Galati     - 21905069 
